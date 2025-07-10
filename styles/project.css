@@ -130,10 +130,10 @@ font-weight: bold;
     margin-top: 80px;
 }
 
-.hero-title{
+.hero-title, .table-title{
     font-size: 40px;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: 22px;
 }
 
 .hero-sub-title{
@@ -167,6 +167,38 @@ font-weight: bold;
 .card-bg3{
     background-color: #F7EBCF;
 }
+
+/* para styles */
+.para-section{
+    max-width: 1280px;
+    margin: 0 auto;
+    margin-top: 32px;
+    background-color: #FFFFFF;
+    padding: 48px 24px;
+    border-radius: 16px;
+}
+
+.para-desc{
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+.para-title{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.para-sub-title{
+    font-size: 16px;
+    color: #756f6f;
+}
+
+/* table styles */
+/* .table-section{
+    max-width: 1280px;
+    margin: 0 auto;
+    margin-top: 80px;
+} */
 
 
 
