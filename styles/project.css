@@ -96,7 +96,7 @@ font-weight: bold;
     font-weight: bold;
 }
 
-.card{
+.card, .hero-card{
     margin-top: 32px;
     display: flex;
     justify-content: space-between;
@@ -104,21 +104,73 @@ font-weight: bold;
     max-width: 1240px;
 }
 
-.card-items{
+.card-items, .hero-card-items{
     background-color: #FFFFFF;
     padding: 24px;
     border-radius: 16px;
 }
 
-.card-titles{
+.card-titles, .hero-card-title{
     font-size: 20px;
     font-weight: bold;
     color: #0E0E0E;
     margin-top: 24px;
 }
 
-.card-sub-title{
+.card-sub-title, .hero-card-sub-title{
     font-size: 16px;
     color: #565151;
     margin-top: 12px;
 }
+
+/* hero card section */
+.hero-section{
+    max-width: 1280px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+.hero-title{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.hero-sub-title{
+    font-size: 16px;
+    color: #565151;
+    margin-bottom: 32px;
+}
+
+.btn-bg1{
+    background-color: #5490F5;
+    margin-top: 32px;
+}
+
+.btn-bg2{
+    margin-top: 32px;
+}
+
+.btn-bg3{
+    background-color: #FFC239;
+    margin-top: 32px;
+}
+
+.card-bg1{
+    background-color: #b8c6e0;
+}
+
+.card-bg2{
+    background-color: #C6E4D6;
+}
+
+.card-bg3{
+    background-color: #F7EBCF;
+}
+
+
+
+
+
+
+
