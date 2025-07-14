@@ -124,8 +124,8 @@ font-weight: bold;
 }
 
 /* hero card section */
-.hero-section{
-    max-width: 1280px;
+.hero-section, .satelite-section{
+    width: 1170px;
     margin: 0 auto;
     margin-top: 80px;
 }
@@ -199,6 +199,9 @@ font-weight: bold;
     margin: 0 auto;
     margin-top: 80px;
 } */
+
+/* satelite styles */
+
 
 
 
